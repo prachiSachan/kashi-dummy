@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prachiSachan.github.io/kashi-dummy/static/css/main.9779d46b.css",
+    "main.js": "/prachiSachan.github.io/kashi-dummy/static/js/main.6f9e1218.js",
+    "static/js/453.8566eefc.chunk.js": "/prachiSachan.github.io/kashi-dummy/static/js/453.8566eefc.chunk.js",
+    "static/media/background2.jpg": "/prachiSachan.github.io/kashi-dummy/static/media/background2.e9a5948315a8e6e1ce27.jpg",
+    "index.html": "/prachiSachan.github.io/kashi-dummy/index.html",
+    "main.9779d46b.css.map": "/prachiSachan.github.io/kashi-dummy/static/css/main.9779d46b.css.map",
+    "main.6f9e1218.js.map": "/prachiSachan.github.io/kashi-dummy/static/js/main.6f9e1218.js.map",
+    "453.8566eefc.chunk.js.map": "/prachiSachan.github.io/kashi-dummy/static/js/453.8566eefc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9779d46b.css",
+    "static/js/main.6f9e1218.js"
+  ]
+}
